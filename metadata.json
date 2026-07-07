@@ -1,0 +1,6 @@
+{
+  "name": "Sky Dzimba CPM",
+  "description": "Loja de venda de coins, dinheiro e contas para Car Parking Multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
